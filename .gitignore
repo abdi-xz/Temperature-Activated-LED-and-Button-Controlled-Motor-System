@@ -1,0 +1,26 @@
+# Ignore temporary and backup files  
+*.ini  
+*.log  
+*.dct  
+*.dbg  
+*.dlt  
+*.lst  
+*.bmk  
+*.brk  
+*.cfg  
+*.cp  
+*.mcl  
+*.mcpi  
+*.mcpi_callertable.txt  
+*.mcpigroup  
+*.user.dic  
+
+# Ignore compiled files  
+*.hex  
+
+# Ignore simulation backups  
+simulation/*.bak  
+
+# Ignore system-generated files  
+.DS_Store  
+Thumbs.db  
